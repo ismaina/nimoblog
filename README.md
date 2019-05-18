@@ -3,7 +3,7 @@
 Nimo's Blog is a sample test site for simulating basic CRUD with django using Django admin and django apps.
 
 ## The site
-http://mwanjau.pythonanywhere.com/
+![Nimo's Blog](http://mwanjau.pythonanywhere.com/)
 ## Goal
 The main goal is to have the site work in a monolithic structure and later decompose it to a microservice structure i.e different apps will be in different containers
 
